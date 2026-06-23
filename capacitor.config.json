@@ -1,0 +1,9 @@
+{
+  "appId": "com.bubblezandsnow.outbreakfit",
+  "appName": "Outbreak Fit",
+  "webDir": "dist",
+  "backgroundColor": "#13160E",
+  "android": {
+    "backgroundColor": "#13160E"
+  }
+}
